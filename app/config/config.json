@@ -1,0 +1,12 @@
+{
+  "development":{
+      "databaseUrl":"localhost:27017/oas",
+      "dbUser":"",
+      "dbPwd":"",
+      "logPayload":true
+  },
+  "QA":{},
+  "production":{},
+  "app.port":3000,
+  "log_directory":"/logs"
+}
